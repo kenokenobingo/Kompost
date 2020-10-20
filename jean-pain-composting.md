@@ -7,6 +7,7 @@ Jean Pain: France’s King of Green Gold
 - [LOW←TECH MAGAZINE: Reinventing the Greenhouse](https://solar.lowtechmagazine.com/2015/12/reinventing-the-greenhouse.html)
 - [Wikipedia: Biomeiler](https://de.wikipedia.org/wiki/Biomeiler)
 - [Another Kind of Energy or ComPost-Modernism](https://web.archive.org/web/20181119010957/http://www.permacultureactivist.net/PeterBane/Jean_Pain.html)
+- [Native Power](http://native-power.de/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JHRvwNJRNag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
